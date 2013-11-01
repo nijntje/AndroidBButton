@@ -3,6 +3,20 @@ AndroidBButton
 
 Bootstrap 3.0 style buttons and Font Awesome icons
 
+#Current Capabilities
+* BButton
+..* Basic button using the bootstrap 3.0 style e.g. warning, default, or info.
+..* Rounded or square buttons.
+..* Buttons can be disabled.
+..* Add a font awesome icon either to the right, left, or icon only using the font awesome 4.0 cheat sheet e.g. fa-heart.
+
+
+#Future Updates
+
+
+
+
+#BButton
 
  ```xml
  xmlns:bbutton="http://schemas.android.com/apk/res-auto"
