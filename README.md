@@ -4,11 +4,17 @@ AndroidBButton
 Bootstrap 3.0 style buttons and Font Awesome icons
 
 #Current Capabilities
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list 
+
 * BButton
- ..* Basic button using the bootstrap 3.0 style e.g. warning, default, or info.
- ..* Rounded or square buttons.
- ..* Buttons can be disabled.
- ..* Add a font awesome icon either to the right, left, or icon only using the font awesome 4.0 cheat sheet e.g. fa-heart.
+⋅⋅* Basic button using the bootstrap 3.0 style e.g. warning, default, or info.
+⋅⋅* Rounded or square buttons.
+⋅⋅* Buttons can be disabled.
+⋅⋅* Add a font awesome icon either to the right, left, or icon only using the font awesome 4.0 cheat sheet e.g. fa-heart.
 
 
 #Future Updates
